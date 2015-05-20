@@ -1,0 +1,19 @@
+{
+  "name": "jsonp-request",
+  "description": "Simplified jQuery-like JSON-P browser-only request.",
+  "version": "1.0.0",
+  "author": "John Flesch <john.flesch@vzw.com>",
+  "keywords": [
+    "JSON",
+    "JSONP"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://git.lto.vzw.com/vzlearn/jsonp-request.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
